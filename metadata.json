@@ -1,0 +1,8 @@
+{
+  "name": "EduSolver",
+  "description": "A Multi-Method STEM Solver using Agentic AI workflows to provide step-by-step reasoning, alternative solutions, and exam-oriented pedagogical support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
